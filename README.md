@@ -381,3 +381,4 @@ Any contributions you make are **greatly appreciated**!
 - Join in the [Slack channel](http://slack.graphscope.io) for discussion.
 - Please report bugs by submitting a GitHub issue.
 - Please submit contributions using pull requests.
+- 中文用户欢迎加入[钉钉](https://www.dingtalk.com/)群：[31533139](dingtalk://dingtalkclient/action/joingroup?code=v1,k1,dsNbGfI5njcGjwM71FP40eVtA0wNmo2T9BPmoyY82+M=)，参与讨论
