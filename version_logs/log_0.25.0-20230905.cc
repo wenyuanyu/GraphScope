@@ -1,5 +1,5 @@
 automatically bump to 0.25.0-20230905
-timestamp: Tue Sep  5 11:00:18 CST 2023
+timestamp: Tue Sep  5 17:00:39 CST 2023
 previous versions are:
 log_-20230710
 log_-20230822.cc
