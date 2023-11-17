@@ -1,5 +1,5 @@
 automatically bump to 0.26.0-20231117
-timestamp: Fri Nov 17 11:00:13 CST 2023
+timestamp: Fri Nov 17 17:01:02 CST 2023
 previous versions are:
 log_-20230710
 log_-20230822.cc
