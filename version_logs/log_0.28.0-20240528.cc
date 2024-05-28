@@ -1,5 +1,5 @@
 automatically bump to 0.28.0-20240528
-timestamp: Tue May 28 11:08:45 CST 2024
+timestamp: Tue May 28 17:00:10 CST 2024
 previous versions are:
 log_-20230710
 log_-20230822.cc
